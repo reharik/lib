@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/125/trunk/lib/NHibernate.Linq-1.0.0.GA-bin
+END
+NHibernate.Linq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/125/trunk/lib/NHibernate.Linq-1.0.0.GA-bin/NHibernate.Linq.xml
+END
+releasenotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/125/trunk/lib/NHibernate.Linq-1.0.0.GA-bin/releasenotes.txt
+END
+NHibernate.Linq.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/125/trunk/lib/NHibernate.Linq-1.0.0.GA-bin/NHibernate.Linq.dll
+END

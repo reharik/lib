@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/315/trunk/lib/nunit
+END
+nunit.core.interfaces.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/127/trunk/lib/nunit/nunit.core.interfaces.dll
+END
+nunit.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/315/trunk/lib/nunit/nunit.exe.config
+END
+nunit-console.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/lib/nunit/nunit-console.exe.config
+END
+nunit.util.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/127/trunk/lib/nunit/nunit.util.dll
+END
+nunit-agent-x86.exe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/315/trunk/lib/nunit/nunit-agent-x86.exe
+END
+nunit.core.extensions.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/127/trunk/lib/nunit/nunit.core.extensions.dll
+END
+nunit.core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/127/trunk/lib/nunit/nunit.core.dll
+END
+nunit-agent-x86.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/315/trunk/lib/nunit/nunit-agent-x86.exe.config
+END
+nunit-x86.exe
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/315/trunk/lib/nunit/nunit-x86.exe
+END
+nunit-console-x86.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/127/trunk/lib/nunit/nunit-console-x86.exe
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/127/trunk/lib/nunit/nunit.framework.dll
+END
+nunit-x86.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/315/trunk/lib/nunit/nunit-x86.exe.config
+END
+nunit-console-x86.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/lib/nunit/nunit-console-x86.exe.config
+END
+nunit-agent.exe
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/315/trunk/lib/nunit/nunit-agent.exe
+END
+nunit-console.exe
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/127/trunk/lib/nunit/nunit-console.exe
+END
+nunit-agent.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/315/trunk/lib/nunit/nunit-agent.exe.config
+END
+nunit.exe
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/315/trunk/lib/nunit/nunit.exe
+END
+nunit-console-runner.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/lib/nunit/nunit-console-runner.dll
+END

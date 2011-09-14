@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/lib/StructureMap_2.5.3
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/185/trunk/lib/StructureMap_2.5.3/LICENSE.TXT
+END
+StructureMap.chm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/185/trunk/lib/StructureMap_2.5.3/StructureMap.chm
+END
+Rhino.Mocks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/185/trunk/lib/StructureMap_2.5.3/Rhino.Mocks.dll
+END
+StructureMap.AutoMocking.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/185/trunk/lib/StructureMap_2.5.3/StructureMap.AutoMocking.dll
+END
+StructureMap.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/185/trunk/lib/StructureMap_2.5.3/StructureMap.dll
+END
+StructureMapDoctor.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/185/trunk/lib/StructureMap_2.5.3/StructureMapDoctor.exe
+END

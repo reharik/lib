@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/281/trunk/lib/yui_css
+END
+grids.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/281/trunk/lib/yui_css/grids.css
+END
+reset-fonts.css
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/281/trunk/lib/yui_css/reset-fonts.css
+END
+fonts.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/281/trunk/lib/yui_css/fonts.css
+END
+grids-min.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/281/trunk/lib/yui_css/grids-min.css
+END
+fonts-min.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/281/trunk/lib/yui_css/fonts-min.css
+END
+reset-fonts-grids.css
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/281/trunk/lib/yui_css/reset-fonts-grids.css
+END
+reset.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/281/trunk/lib/yui_css/reset.css
+END
+reset-min.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/281/trunk/lib/yui_css/reset-min.css
+END
